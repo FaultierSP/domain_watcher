@@ -5,7 +5,7 @@ A simple CLI program that lurks on your machine, consumes virtually no resources
 - an  email account that can be used with SMTP
 - an account at [WhoisJson](https://whoisjson.com) and their API key. Other providers will possibly be supported in the future, I like this one for now.
 ## Installation and run
-Copy the executable that you find here to your machine. That was the installation.
+Copy the executable that you find [here](https://github.com/FaultierSP/domain_watcher/releases/latest) to your machine. That was the installation.
 
 The program will block your terminal. So it is intended to run on the separated screen instance.
 
