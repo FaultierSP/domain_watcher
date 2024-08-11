@@ -181,7 +181,7 @@ fn prompt_for_config(pal: &PrintAndLog) -> Result<Config> {
 
     let smtp_user = prompt("SMTP username: ");
     let smtp_pass = prompt("SMTP password: ");
-    let domain_names = prompt("Domain name to watch: ");
+    let domain_names = prompt("Domain name to watch (comma separated for multiple domains): ");
     let from = prompt("Sender email: ");
     let email = prompt("Notification email: ");
     
